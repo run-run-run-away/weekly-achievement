@@ -1,0 +1,9 @@
+# Leetcode solutions
+
+| Problem                                                                                                                               | Hayoung's Solution                                                                                           |     |     |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | --- | --- |
+| [2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/)                                         | [Link](https://github.com/hayoung0Lee/LeetHub/tree/main/2404-most-frequent-even-element)                     |     |     |
+| [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)                                       | [Link](https://github.com/hayoung0Lee/LeetHub/tree/main/2405-optimal-partition-of-string)                    |     |     |
+| [2406. Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | [Link](https://github.com/hayoung0Lee/LeetHub/tree/main/2406-divide-intervals-into-minimum-number-of-groups) |     |     |
+|                                                                                                                                       |                                                                                                              |     |     |
+|                                                                                                                                       |                                                                                                              |     |     |
