@@ -3,4 +3,4 @@
    - Status: :green_heart:
 
 2. Finishing `C++ Programming: An Object-Oriented Approach(McGraw-Hill Education)`- Part 2 :
-   - Status: :yellow_heart: , Only finished Chapter 11, 12, and 13.
+   - Status: :yellow_heart: , Only finished Chapter 11, 12, and 15.
