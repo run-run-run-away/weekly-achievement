@@ -2,24 +2,23 @@
 
 Share what you achieved every week!
 
-## Shared goal
+## Leetcode
 
 - Leetcode in Python: https://leetcode.com/contest/
   - Either joing weekly contest or biweekly contest!
 
-## Individual goal
+## Frontend
 
-- Follow your heart, and share it with each other!
+- Share what you learned about React, Typescript/Javascript.
 
-## How it works
+## ROS
 
-1. Achieve our shared goal
-2. Do your individual weekl goals
-   - Example: reading couple chapters of book your reading, working on your side project
+- Share what you learned about ROS.
 
-## What if I didn't meet my goal?
+## week_goal
 
-- Nothing happens, but just big disappointment in you. :pensive:
+- Add your weekly goal at the beginning of each week.
+- At the end of the week, rate your achievements.
 
 ## Emoji
 
